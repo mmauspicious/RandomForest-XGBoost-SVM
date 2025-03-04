@@ -1,17 +1,5 @@
-**Problem Statement**
-
 **Star Dataset to Predict Star Types**
 
+**Applying Random Forest, XGBoost and SVM on Kaggle Dataset [1].**
 
-
-
-
-
-
-
-
-**Applying Random Forest, XGBoost and SVM on Kaggle Dataset [2].**
-
-[1]
-
-[2] https://www.kaggle.com/datasets/deepu1109/star-dataset
+[1] https://www.kaggle.com/datasets/deepu1109/star-dataset
